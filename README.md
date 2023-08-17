@@ -54,7 +54,7 @@ Steps to Deploy the Bot to Run for Yourself
 
 ## Command For Old Wzml Heroku Branch ⚠️
 
-[![](Copy Below Commands and Paste in BotFather)
+(Copy Below Commands and Paste in BotFather)
 
 ```text
 mirror1 - Start mirroring to Google Drive. Send mirror1 for more help 
