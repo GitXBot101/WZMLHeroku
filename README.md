@@ -52,25 +52,49 @@ Steps to Deploy the Bot to Run for Yourself
 
 ---
 
-## License ⚠️
+## Command For Old Wzml Heroku Branch ⚠️
 
 [![](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ```text
-Copyright (C) 2022 WeebZone
+Copy Below Commands and Paste in BotFather.
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program. < https://github.com/weebzone/WZML/blob/update/LICENSE >.
+    mirror1 - Start mirroring to Google Drive. Send mirror1 for more help 
+zipmirror1 - Start mirroring and upload the filefolder compressed with zip extension
+unzipmirror1 - Start mirroring and upload the filefolder extracted from any archive extension 
+qbmirror1 - Start Mirroring using qBittorrent, Use qbmirror1 s to select files before downloading 
+qbzipmirror1 - Start mirroring using qBittorrent and upload the filefolder compressed with zip extension 
+qbunzipmirror1 - Start mirroring using qBittorrent and upload the filefolder extracted from any archive extension 
+leech1 - Start leeching to Telegram, Use leech1 s to select files before leeching 
+zipleech1 - Start leeching to Telegram and upload the filefolder compressed with zip extension 
+unzipleech1 - Start leeching to Telegram and upload the filefolder extracted from any archive extension 
+qbleech1 - Start leeching to Telegram using qBittorrent, Use qbleech1 s to select files before leeching 
+qbzipleech1 - Start leeching to Telegram using qBittorrent and upload the filefolder compressed with zip extension 
+qbunzipleech1 - Start leeching to Telegram using qBittorrent and upload the filefolder extracted from any archive extension 
+clone1 - Copy filefolder to Google Drive 
+count1 - Count filefolder of Google Drive 
+del1 - Delete filefolder from Google Drive (Only Owner & Sudo) 
+watch1 - Mirror yt-dlp supported link. Send watch1 for more help 
+zipwatch1 - Mirror yt-dlp supported link as zip 
+leechwatch1 - Leech yt-dlp supported link 
+leechzipwatch1 - Leech yt-dlp supported link as zip 
+prefix1 - Set Prename to leech files 
+caption1 - Set Caption for leech files 
+dumpid1 - Add Dump Channel for leech files. make sure bot should an admin in dump channel. 
+leechset1 - Leech settings 
+setthumb1 - Reply photo to set it as Thumbnail 
+cancel1 - Reply to the message by which the download was initiated and that download will be cancelled 
+cancelall1 - Cancel all downloading tasks 
+list1 - Search in Google Drive(s) 
+search1 - Search for torrents with API 
+status1 - Shows a status of all the downloads 
+usage1 - Shows Heroku App Dyno Usage 
+stats1 - Show Stats of the machine the bot is hosted on 
+speedtest1 - Speedtest of Heroku server 
+weebhelp - Okatu helper
+ping1 - Check how long it takes to Ping the Bot 
+restart1 - Restart and update the bot (Only Owner & Sudo) 
+help1 - To get this message
 ```
 
 ---
