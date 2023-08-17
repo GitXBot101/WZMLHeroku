@@ -54,12 +54,10 @@ Steps to Deploy the Bot to Run for Yourself
 
 ## Command For Old Wzml Heroku Branch ⚠️
 
-[![](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![](Copy Below Commands and Paste in BotFather)
 
 ```text
-Copy Below Commands and Paste in BotFather.
-
-    mirror1 - Start mirroring to Google Drive. Send mirror1 for more help 
+mirror1 - Start mirroring to Google Drive. Send mirror1 for more help 
 zipmirror1 - Start mirroring and upload the filefolder compressed with zip extension
 unzipmirror1 - Start mirroring and upload the filefolder extracted from any archive extension 
 qbmirror1 - Start Mirroring using qBittorrent, Use qbmirror1 s to select files before downloading 
